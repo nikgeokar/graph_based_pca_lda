@@ -1,5 +1,4 @@
 # Graph-Based Pca Lda
-Welcome to our repository, where we present a methodology for predicting node labels of graphs using machine learning.
 
 Our approach involves creating a pipeline that utilizes graph-based Kernel Principal Component Analysis (KPCA) for dimensionality reduction, followed by using the transformed dataset to train a Linear Discriminant Analysis (LDA) classifier. We have used multi-output LDA to predict labels for all the nodes in the graph.
 
