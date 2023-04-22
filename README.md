@@ -10,3 +10,5 @@ We have also conducted additional experiments for both datasets using common KPC
 In this repository, you will find all the necessary code, documentation, and datasets used in our project. We have also included a detailed report that outlines our methodology and presents our findings.
 
 Our aim with this project is to showcase the effectiveness of our methodology in predicting node labels of graphs using machine learning. We invite you to explore our repository and see how our pipeline can be applied to other similar problems.
+
+To access further details and information, please refer to the report file located within this repository (report.pdf).
